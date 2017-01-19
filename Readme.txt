@@ -2,13 +2,15 @@
 
 
 shello
-<<<<<<< HEAD
+
+origin/my-test-branch
 ss
 
 sdff
 
 edited in test-bfranch
-=======
 
 edited in  aster branch
->>>>>>> master
+
+edited in  aster branch
+origin/my-test-branch
